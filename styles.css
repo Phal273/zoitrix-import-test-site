@@ -1,0 +1,8 @@
+body { font-family: Georgia, serif; margin: 0; color: #2b1d14; background: #faf6f1; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 12px 24px; background: #efe6dc; }
+nav a { margin-left: 16px; color: #6f4e37; text-decoration: none; font-weight: bold; }
+main { max-width: 640px; margin: 40px auto; padding: 0 16px; }
+h1 { font-size: 2.2rem; margin-bottom: 4px; }
+.tagline { color: #7a6a5c; }
+.marker { font-family: monospace; background: #efe6dc; display: inline-block; padding: 2px 8px; border-radius: 4px; }
+footer { text-align: center; color: #7a6a5c; padding: 24px; }
